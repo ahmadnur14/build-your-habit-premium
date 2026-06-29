@@ -1,4 +1,2 @@
-# Tambahkan dependensi Python proyek di sini
-# Contoh:
-# Django==4.2.0
-# requests>=2.28.0
+openai
+python-dotenv
